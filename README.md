@@ -132,9 +132,13 @@ Suggestions and improvements are welcome:
 
 These templates are provided **for educational purposes and authorized security testing only**. Only scan systems you own or have explicit written permission to test. The author is not responsible for any misuse or damage.
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE). You are free to copy, use, modify, and share these templates, but you **must give credit** by keeping the copyright notice and license text.
+
 ## 🙏 Credits
 
-Many templates are collected from the community and from [ProjectDiscovery's nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) & https://github.com/linuxadi/40k-nuclei-templates. All credit goes to the original authors.
+Many templates are collected from the community and from [ProjectDiscovery's nuclei-templates](https://github.com/projectdiscovery/nuclei-templates). & https://github.com/linuxadi/40k-nuclei-templates All credit goes to the original authors.
 
 ## 👤 Author
 
